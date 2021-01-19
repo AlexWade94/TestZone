@@ -1,0 +1,13 @@
+﻿  AssetManager.cpp
+  Enemy.cpp
+  FrameTimer.cpp
+  MyFrameWork.cpp
+  Hero.cpp
+  Main.cpp
+  Game.cpp
+  Generating code
+  1431 of 1453 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Testzone.vcxproj -> C:\Testzone\x64\Release\Game.exe
